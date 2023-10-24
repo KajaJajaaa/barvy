@@ -1,1 +1,4 @@
 # barvy
+#95DBE5FF
+#078282FF
+#339E66FF
